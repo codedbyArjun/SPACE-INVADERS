@@ -36,7 +36,7 @@ It also taught me that debugging is a big part of programming 😅.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Space-Invaders.git
+https://github.com/codedbyArjun/SPACE-INVADERS.git
 ```
 
 Go into the project folder:
